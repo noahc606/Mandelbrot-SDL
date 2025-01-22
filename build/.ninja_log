@@ -1,0 +1,23 @@
+# ninja log v5
+11	1253	1734290531619485287	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/sdl-utils/z/io/Timer.cpp.o	7aa386612eb99dee
+11	525	1734290530891512149	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/io/NoahSimpleCryption.cpp.o	7be6934b713013b1
+12	634	1734294068893800355	CMakeFiles/Mandelbrot-unix-x86_64.dir/src/main/MainLoop.cpp.o	f94600a14490f3d1
+11	1107	1734290531475490611	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/sdl-utils/z/debug/SDLEventDebugger.cpp.o	7a5cd5076aebaff2
+10	1019	1734290531383494012	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/data/StringUtils.cpp.o	d3d0b24c386748d4
+11	1450	1734290531819477892	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/sdl-utils/z/io/MainLoopDriver.cpp.o	efedd6e4991ed22c
+11	1300	1734290531667483512	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/io/Log.cpp.o	c474f875bb4deeb3
+1	11	0	/home/nch/Technical/Git/SDL-Mandelbrot/build/CMakeFiles/cmake.verify_globs	198c957c550660bb
+10	1028	1734290531395493569	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/fs/FsUtils.cpp.o	305a7f6460f0ea15
+11	1284	1734290531651484104	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/sdl-utils/z/gfx/Text.cpp.o	1619dc7cb2bfc048
+634	738	1734294068993796840	/home/nch/Technical/Git/SDL-Mandelbrot/bin/Mandelbrot-unix-x86_64	c2810c1f3a8e065b
+11	661	1734293839025791117	CMakeFiles/Mandelbrot-unix-x86_64.dir/src/main/Main.cpp.o	86793f258e102d6d
+11	1143	1734290531511489280	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/sdl-utils/z/gfx/TexUtils.cpp.o	d0788e82bbc625a4
+10	1379	1734290531747480554	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/data/NoahAllocTable.cpp.o	e1273f2a1d33c6eb
+10	548	1734290530915511274	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/fs/FilePath.cpp.o	442d9895e578cb64
+8	32	1734369917528023534	build.ninja	c0508ca26583bbb3
+10	845	1734290531211500371	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/gfx/Color.cpp.o	522e6f271628124b
+11	1544	1734290531911474491	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/sdl-utils/z/io/Input.cpp.o	2521b929f92c6087
+10	545	1734290530911511419	CMakeFiles/Mandelbrot-unix-x86_64.dir/include/nch/cpp-utils/z/fs/FileUtils.cpp.o	cfa4a23ac694dde6
+1	10	0	/home/nch/Technical/Git/SDL-Mandelbrot/build/CMakeFiles/cmake.verify_globs	198c957c550660bb
+12	671	1734369922655925498	CMakeFiles/Mandelbrot-unix-x86_64.dir/src/main/MainLoop.cpp.o	f94600a14490f3d1
+671	794	1734369922779923128	/home/nch/Technical/Git/SDL-Mandelbrot/bin/Mandelbrot-unix-x86_64	c2810c1f3a8e065b
