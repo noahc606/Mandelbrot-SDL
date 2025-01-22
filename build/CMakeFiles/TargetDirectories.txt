@@ -1,3 +1,0 @@
-/home/nch/Technical/Git/SDL-Mandelbrot/build/CMakeFiles/Mandelbrot-unix-x86_64.dir
-/home/nch/Technical/Git/SDL-Mandelbrot/build/CMakeFiles/edit_cache.dir
-/home/nch/Technical/Git/SDL-Mandelbrot/build/CMakeFiles/rebuild_cache.dir
