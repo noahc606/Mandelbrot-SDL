@@ -1,5 +1,5 @@
 #include "MainLoop.h"
-#include <nch/sdl-utils/timer.h>
+#include <nch/cpp-utils/timer.h>
 #include <vector>
 
 MainLoop::MainLoop()
